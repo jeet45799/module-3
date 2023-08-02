@@ -1,0 +1,7 @@
+What is tuple? Difference between list and tuple.
+
+List	                                                        Tuple
+-It is mutable	                                                -It is immutable
+-The implication of iterations is time-consuming in the list.	-Implications of iterations are much faster in tuples.
+-Operations like insertion and deletion are better performed.	-Elements can be accessed better.
+-Consumes more memory.	                                        -Consumes less memory.

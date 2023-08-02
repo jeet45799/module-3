@@ -1,0 +1,8 @@
+t = (2,34,45,6,7,2,4,5,78,34,2,100,200,100,500,200,300,200,200)
+print(t)
+count = t.count(2)
+print(count)
+count1=t.count(100)
+print(count1)
+count2=t.count(200)
+print(count2)
